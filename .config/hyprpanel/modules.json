@@ -1,0 +1,18 @@
+{
+  "custom/battery": {
+    "label": "{icon} {percentage}%",
+    "tooltip": "Bateria: {percentage}% - {status}",
+    "truncationSize": -1,
+    "execute": "~/.config/hyprpanel/scripts/battery.sh",
+    "executeOnAction": "",
+    "interval": 30,
+    "hideOnEmpty": false,
+    "actions": {
+      "onLeftClick": "",
+      "onRightClick": "",
+      "onMiddleClick": "",
+      "onScrollUp": "",
+      "onScrollDown": ""
+    }
+  }
+}

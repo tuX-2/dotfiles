@@ -1,0 +1,12 @@
+@include styleModule(
+  'cmodule-battery',
+  (
+    'text-color': #50FA7B,
+    'icon-color': #00FF00,
+    'icon-background': #1e1e2e,
+    'label-background': #44475a,
+    'inner-spacing': 0.2em,
+    'icon-size': 1.2em
+  )
+);
+
